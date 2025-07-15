@@ -1,5 +1,5 @@
 {
-  "name": "@pelu/timepicker",
+  "name": "@pelumoses/timepicker",
   "version": "1.0.0",
   "description": "A customizable React time picker component with dropdown interface",
   "main": "dist/index.js",

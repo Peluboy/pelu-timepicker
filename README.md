@@ -14,7 +14,7 @@ A customizable React time picker component with dropdown interface built with Ty
 ## Installation
 
 ```bash
-npm install @pelu/timepicker
+npm install @pelumoses/timepicker
 ```
 
 ## Usage
