@@ -1,5 +1,5 @@
 {
-  "name": "@pelu/timepicker",
+  "name": "pelu-timepicker",
   "version": "1.0.0",
   "description": "A customizable React time picker component with dropdown interface",
   "main": "dist/index.js",
@@ -46,10 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/react-timepicker-component.git"
+    "url": "git+https://github.com/Peluboy/pelu-timepicker.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/react-timepicker-component/issues"
+    "url": "https://github.com/Peluboy/pelu-timepicker/issues"
   },
-  "homepage": "https://github.com/yourusername/react-timepicker-component#readme"
+  "homepage": "https://github.com/Peluboy/pelu-timepicker#readme"
 }
